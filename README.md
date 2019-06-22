@@ -7,6 +7,6 @@ https://github.com/SeokLeeUS/Finding_Lane_Lines/blob/master/CarND-LaneLines-P1/P
 
 Final testing videos are:
 
-https://github.com/SeokLeeUS/Finding_Lane_Lines/tree/master/CarND-LaneLines-P1/test_videos
+https://github.com/SeokLeeUS/Finding_Lane_Lines/tree/master/CarND-LaneLines-P1/test_videos_output
 
 
